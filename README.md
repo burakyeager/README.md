@@ -1,4 +1,3 @@
-# README.md
 # Selam dostlarım
 - Adım Burak 16 yaşındayım
 - 3 Yıldır yazılım ve kodlama ile uğraşıyorum. [html, php, javascript, css, python]
